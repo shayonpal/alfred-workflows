@@ -1,2 +1,6 @@
 # alfred-workflows
- This contains a bunch of Alfred Workflows that I've created, primarily for myself. You're free to use them and customize to suit your needs.
+
+Right now, this contains only one workflow, that I exported on request from [@realin][1] and [@shadez][2]. Will keep adding more, as and when I find some time to make my workflows modular.
+
+[1]:	https://twitter.com/realin
+[2]:	https://twitter.com/shadez
