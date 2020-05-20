@@ -22,14 +22,25 @@ The only drawback is that the user will need Python 3 in their macOS to be able 
 	4. `NotionToken`
 		1. To access non-public pages you need to find out authentication token. This auth token is the value of `NotionToken`.
 		2. In Google Chrome: open developer tools (keyboard shortcut: `⌘+⌥+I`), navigate to `Application` tab, look under `Storage \ Cookies` and copy the value of `token_v2` cookie.   
-			![][image-1]
+			  
+			![][image-1]  
+
 		3. You can do similar things in other browsers.
 4. Set up the keywords and keyboard shortcuts of your choice for the actions, and your good to go! 👍🏼 
+
+## Future Enhancements
+There are a bunch of ways this workflow can be improved upon. Some of those ideas are:
+- User should be able to specify their `python3` path as part of the workflow variable, instead of having to edit it within the workflow blocks.
+- User should be able to specify whether they want the popup to include extra note (while saving a Safari bookmark) via workflow variables.
+- User should be able to save URLs from all browsers they use, and not just Safari.
+- User should be able to include not just a URL and a Todo, but also other blocks like Callout, Video embed, Image embed, Tweet embed, etc.
+- Some day, I’d like to build my own web clipper for Safari, by deriving from [this tutorial][6].
 
 [1]:	https://pypi.org/user/ivanistheone/
 [2]:	https://pypi.org/user/jamalex/
 [3]:	https://installpython3.com/mac/
 [4]:	https://developer.apple.com/downloads/
 [5]:	https://pypi.org/project/notion/
+[6]:	https://www.szj.io/tech/2020/05/04/powerup-safari-notion-extension.html
 
 [image-1]:	https://user-images.githubusercontent.com/27700007/82423122-58bc8600-9a51-11ea-91a9-88b97c898568.png
