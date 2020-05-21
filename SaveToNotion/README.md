@@ -36,7 +36,7 @@ There are a bunch of ways this workflow can be improved upon. Some of those idea
 - Some day, I’d like to build my own web clipper for Safari, by deriving from [this tutorial][6].
 
 
-[!\[Workflows]()(https://img.shields.io/badge/-more%20workflows-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/alfred-workflows#readme)
+[![Workflows](https://img.shields.io/badge/-more%20workflows-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/alfred-workflows#readme)
 
 [1]:	https://pypi.org/user/ivanistheone/
 [2]:	https://pypi.org/user/jamalex/
